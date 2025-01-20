@@ -87,6 +87,15 @@ Descargamos la ISO de la pagina oficial de Kali Linux [Kali Linux ISO](https://w
 
 ![image](https://github.com/user-attachments/assets/f214756d-547f-4ba8-973f-1dd4f0f51fc1)
 
+- Seleccionamos la contraseña: `Password123`
+
+![image](https://github.com/user-attachments/assets/71656397-2a64-40d0-9ca0-9ff0c640629f)
+
+![image](https://github.com/user-attachments/assets/4c529739-5ead-4bb0-b257-03908927bd48)
+
+![image](https://github.com/user-attachments/assets/32112631-2263-4c8d-80bc-cc729db06b7c)
+
+
 
 
 
