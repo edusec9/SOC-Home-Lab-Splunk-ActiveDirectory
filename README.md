@@ -7,10 +7,9 @@ Este repositorio documenta como construir un laboratorio local SOC con **Active 
 - **250 GB de almacenamiento**
 - **16 GB de RAM**
 
-### Estructura
+## Estructura
 
-![image](https://github.com/user-attachments/assets/dbae6559-b4f5-4233-8813-3b75867e2522)
-
+![image](https://github.com/user-attachments/assets/9692ddb5-286a-4651-a07b-75f64897b33a)
 
 # Instalación de los sistemas operativos
 - Windows 10 Pro
@@ -18,3 +17,8 @@ Este repositorio documenta como construir un laboratorio local SOC con **Active 
 - Windows Server 2022 (Active Directory)
 - Ubuntu Server (Splunk)
 
+## 1. Instalación de los sistemas operativos
+
+## 2. Configurar Splunk
+
+## 3. Configurar Active Directory
