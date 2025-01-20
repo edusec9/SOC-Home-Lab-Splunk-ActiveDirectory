@@ -96,6 +96,45 @@ Descargamos la ISO de la pagina oficial de Kali Linux [Kali Linux ISO](https://w
 ![image](https://github.com/user-attachments/assets/32112631-2263-4c8d-80bc-cc729db06b7c)
 
 
+# Instalacion Ubuntu Server
+
+- Descargamos la ISO en el siguiente link: [Ubuntu Server](https://ubuntu.com/download/server)
+
+- Seguimos los mismos pasos realizados anteriormente.
+
+![image](https://github.com/user-attachments/assets/bcc4c69f-e7c4-4fa2-8490-bb58ec646694)
+
+![image](https://github.com/user-attachments/assets/94ed3368-1ea3-4ee0-bd35-f1e753ab0839)
+
+![image](https://github.com/user-attachments/assets/d50dba06-253a-4bbd-bcad-429aac60fbb6)
+
+![image](https://github.com/user-attachments/assets/21d40aaa-3f04-4123-8264-e8e0b8b47f1e)
+
+- A partir de aqui, seleccionamos siempre la opcion `Done` hasta el apartado **Profile Configuration** que es donde configuramos el nombre de usuario y contraseña.
+- Una vez lleguemos a **Profile Configuration** ponemos un usuario `tomas` y de contraseña: `password`.
+
+![image](https://github.com/user-attachments/assets/09914e5c-f01f-49fa-83d9-a88b6e320411)
+
+- Una vez seleccionado `Done` va a empezar a instalarse el Servidor Ubuntu. Al instalarse hay que reiniciar el sistema, por lo que seleccionamos `Reboot Now`.
+
+ ![image](https://github.com/user-attachments/assets/242195f1-ce79-4ebe-a8e7-753e03306641)
+
+- Iniciamos sesion y seguimos con el siguiente comando para actualizar el sistema: `sudo apt-get update && sudo apt-get upgrade -y`. Luego en **Package configuration** seleccionamos `Ok` y el sistema estaria instalado.
+
+  ![image](https://github.com/user-attachments/assets/b3b0bc33-4410-4732-b7dd-838ccc90e078)
+
+
+  
+
+
+
+
+
+
+
+
+
+
 
 
 
