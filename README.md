@@ -34,7 +34,8 @@ El laboratorio consiste en:
 
 *Diagrama general del laboratorio:
 
-![Arquitectura del Laboratorio](https://github.com/user-attachments/assets/9692ddb5-286a-4651-a07b-75f64897b33a)
+![Arquitectura del Laboratorio](https://github.com/user-attachments/assets/ca040f7a-6103-4486-b762-add3350b4b1b)
+
 
 ---
 
@@ -98,7 +99,12 @@ En este laboratorio, aprenderás a:
 ---
 
 ## **Referencias**
-- [Documentación oficial de Splunk](https://docs.splunk.com/)  
-- [Microsoft Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)  
-- [Instalación de Active Directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-active-directory-domain-services--level-100-)  
+
+- **Splunk**: [Documentación oficial de Splunk](https://docs.splunk.com/)  
+- **Microsoft Sysmon**: [Microsoft Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)  
+- **Active Directory**: [Instalación de Active Directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-active-directory-domain-services--level-100-)  
+- **Remote Desktop Protocol (RDP)**: [Understanding Remote Desktop Protocol (RDP)](https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/understanding-remote-desktop-protocol)  
+- **Hydra**: [THC-Hydra GitHub Repository](https://github.com/vanhauser-thc/thc-hydra)  
+- **Ubuntu Server**: [Ubuntu Server Documentation](https://ubuntu.com/server/docs)  
+
 
