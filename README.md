@@ -75,7 +75,7 @@ El laboratorio consiste en:
   - Creación de usuarios y grupos simulando una estructura empresarial.  
   - Configuración de políticas de grupo (Group Policy Objects, GPOs) para simular entornos reales.  
   - Pruebas básicas de autenticación en el dominio usando la máquina Windows 10.  
-  - Ver guía completa: [Configurar Active Directory](https://github.com/edusec9/SOC-Home-Lab/blob/main/3.Instalar-y-Configurar-Active-Directory.md)  
+  - Ver guía completa: [Instalar y Configurar Active Directory](https://github.com/edusec9/SOC-Home-Lab/blob/main/3.Instalar-y-Configurar-Active-Directory.md)  
 
 ---
 
