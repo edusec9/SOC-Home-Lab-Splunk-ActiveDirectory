@@ -67,7 +67,7 @@ El laboratorio consiste en:
 
 ---
 
-### **3. Configuración de Active Directory**
+### **3. Instalación y Configuración de Active Directory**
 - **Descripción**:  
   Una guía detallada sobre cómo configurar un dominio usando **Active Directory** en Windows Server 2022.  
 - **Contenido del archivo**:  
